@@ -58,6 +58,7 @@ public class LoginTest {
 	
 	@Test
 	public  void test1() {
+		
 		ExtentTest test = extent.createTest("Testing Demo");
 		test.pass("pass the testing");
 		
