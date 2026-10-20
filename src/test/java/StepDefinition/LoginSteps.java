@@ -26,4 +26,5 @@ public void verifyHomePage() {
 @And("the browser should close")
 public void closeBrowser() {
 	System.out.println("Rajan Kumar Testing1");
+	System.out.println("changes done");
 	lp.browserquit();}}
